@@ -1,0 +1,44 @@
+#productos-container {
+    background-color: #666;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 15px;
+}
+
+div {
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: white;
+}
+
+div h3 {
+    color: #333;
+    font-size: 1.5em;
+}
+
+div img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+div p {
+    color: #666;
+    margin-top: 10px;
+}

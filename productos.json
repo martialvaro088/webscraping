@@ -1,0 +1,132 @@
+[
+    {
+        "nombre": "ASUS ROG Zephyrus Duo 16 GX650PY AMD Ryzen 9 7945HX/64GB/2TB SSD/RTX 4090/16'' (PT)",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1067/10672273/16-asus-rog-zephyrus-duo-16-gx650py-nm003w-amd-ryzen-9-7945hx-64gb-2tb-ssd-rtx-4090-16-pt.jpg",
+        "precio": 6821
+    },
+    {
+        "nombre": "Razer Blade 17 QHD 240Hz Intel Core i7-12800H/32GB/1TB SSD/RTX 3080Ti/17.3\"",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1064/10646046/188-razer-blade-17-qhd-240hz-intel-core-i7-12800h-32gb-1tb-ssd-rtx-3080ti-173.jpg",
+        "precio": 5955
+    },
+    {
+        "nombre": "Lenovo Legion PRO 7 16IRX8H-876 Intel Core i9-13900HX/32GB/1TB SSD/RTX 4090/16'' (PT)",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1074/10749179/1249-lenovo-legion-pro-7-16irx8h-876-intel-core-i9-13900hx-32gb-1tb-ssd-rtx-4090-16-pt.jpg",
+        "precio": 5874
+    },
+    {
+        "nombre": "ASUS ROG Strix SCAR 18 G834JY-93B49PB1 Intel Core i9-13980HX/64GB/2TB SSD/RTX 4090/16\" Teclado Portugués",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1067/10672389/122-asus-rog-strix-scar-18-g834jy-93b49pb1-intel-core-i9-13980hx-64gb-2tb-ssd-rtx-4090-16-pt.jpg",
+        "precio": 5687
+    },
+    {
+        "nombre": "MSI Summit E16 Flip A12UDT-001ES Intel Core i7-1280P/32GB/1TB SSD/RTX3050Ti/16\" Táctil",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1019/10199676/1544-msi-summit-e16-flip-a12udt-001es-intel-core-i7-1280p-32gb-1tb-ssd-rtx3050ti-16-tactil.jpg",
+        "precio": 5645
+    },
+    {
+        "nombre": "HP ZBook Fury 16 G9 Intel Core i7-12800HX/32GB/1TB SSD/RTX A3000/16\"",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1063/10637600/1546-hp-zbook-fury-16-g9-intel-core-i7-12800hx-32gb-1tb-ssd-rtx-a3000-16.jpg",
+        "precio": 5368
+    },
+    {
+        "nombre": "Lenovo Legion Pro 7 16IRX8H Intel Core i9-13900HX/32GB/1TB SSD/RTX 4090/16\"",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1067/10676247/1917-lenovo-legion-pro-7-16iax7-intel-core-i9-13900hx-32gb-1tb-ssd-rtx-4090-16-33b3b45a-351d-4aea-b4ba-f1001e939110.jpg",
+        "precio": 5155
+    },
+    {
+        "nombre": "MSI Creator Z16 HX Studio B13VGTO-032ES Intel Core i9-13950HX/64GB/1TB SSD/RTX 4070/16\" Táctil",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1069/10696611/1373-msi-creator-z16-hx-studio-b13vgto-032es-intel-core-i9-13950hx-64gb-1tb-ssd-rtx-4070-16-tactil.jpg",
+        "precio": 5119
+    },
+    {
+        "nombre": "Lenovo Legion PRO 7 16IRX8H-566 Intel Core i9-13900HX/32GB/1TB SSD/RTX 4080/16'' (PT)",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1070/10709181/1672-lenovo-legion-pro-7-16irx8h-566-intel-core-i9-13900hx-32gb-1tb-ssd-rtx-4080-16-pt.jpg",
+        "precio": 5110
+    },
+    {
+        "nombre": "Razer Blade 16 QHD+ Intel Core i9-13950HX/16GB/1TB SSD/RTX 4070/16\"",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1064/10644260/1367-razer-blade-16-qhd-intel-core-i9-13950hx-16gb-1tb-ssd-rtx-4070-16.jpg",
+        "precio": 4968
+    },
+    {
+        "nombre": "Acer Nitro 16 AN16-51-74HY Intel Core i7-13700H/16GB/1TB SSD/RTX 4050/16\"",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1075/10756047/1184-acer-nitro-16-an16-51-74hy-intel-core-i7-13700h-16gb-1tb-ssd-rtx-4050-16.jpg",
+        "precio": 4940
+    },
+    {
+        "nombre": "ASUS ROG Strix Scar 17 G733PZ-R97B48PB1 AMD Ryzen™ 9 7945HX/32GB/1TB SSD/RTX 4080/17.3\" (PT)",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1067/10672330/1923-asus-rog-strix-scar-17-g733pz-r97b48pb1-amd-ryzentm-9-7945hx-32gb-1tb-ssd-rtx-4080-173-pt.jpg",
+        "precio": 4840
+    },
+    {
+        "nombre": "MSI Titan 18 HX A14VHG-076ES Intel Core i9-14900HX/128GB/2TB SSD/RTX 4080/18\"",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1081/10810263/1487-msi-titan-18-hx-a14vhg-076es-intel-core-i9-14900hx-128gb-2tb-ssd-rtx-4080-18.jpg",
+        "precio": 4804
+    },
+    {
+        "nombre": "ASUS ROG Strix SCAR 17 2023 G733PZ-LL002 AMD Ryzen 9 7945HX/32GB/1TB SSD/RTX 4080/17.3\"",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1070/10709718/1480-asus-rog-strix-scar-17-2023-g733pz-ll002-amd-ryzen-9-7945hx-32gb-1tb-ssd-rtx-4080-173.jpg",
+        "precio": 4705
+    },
+    {
+        "nombre": "HP Envy 16-h0005ns Intel Core i7-12700H/16GB/1TB SSD/RTX 3060/16\"",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1058/10587143/1183-hp-envy-16-h0005ns-intel-core-i7-12700h-16gb-1tb-ssd-rtx-3060-16.jpg",
+        "precio": 4671
+    },
+    {
+        "nombre": "MSI Stealth GS66 12UH-019ES Intel Core i7-12700H/32GB/1TB SSD/RTX 3080/15.6\"",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1001/10010926/1209-msi-stealth-gs66-12uh-019es-intel-core-i7-12700h-32gb-1tb-ssd-rtx-3080-156.jpg",
+        "precio": 4380
+    },
+    {
+        "nombre": "Acer Nitro 5 AN515-57-77G3 Intel Core i7-11800H/16GB/512GB SSD/RTX 3070/15.6\"",
+        "imagen": "https://thumb.pcc-300/articles/1075/10754891/1505-acer-nitro-5-an515-57-77g3-intel-core-i7-11800h-16gb-512gb-ssd-rtx-3070-156.jpg",
+        "precio": 4288
+    },
+    {
+        "nombre": "MSI Stealth 17 Studio A13VI-074PT Intel Core i7-13700H/32GB/1TB SSD/RTX 4090/17.3\" (PT)",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1080/10803495/1779-msi-stealth-17-studio-a13vi-074pt-intel-core-i7-13700h-32gb-1tb-ssd-rtx-4090-173-pt.jpg",
+        "precio": 4175
+    },
+    {
+        "nombre": "ASUS ROG Flow X16 GV601RW-M5041W AMD Ryzen 9 6900HS/32GB/1TB SSD/RTX 3070Ti/16\" Táctil",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1046/10466216/1147-asus-rog-flow-x16-gv601rw-m5041w-amd-ryzen-9-6900hs-32gb-1tb-ssd-rtx-3070ti-156-tactil.jpg",
+        "precio": 4126
+    },
+    {
+        "nombre": "MSI Creator Z17 HX Studio A13VGT-041ES Intel Core i9-13950HX/64GB/2TB SSD/RTX 4070/17\" Táctil",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1070/10708637/1669-msi-creator-z17-hx-studio-a13vgt-041es-intel-core-i9-13950hx-64gb-2tb-ssd-rtx-4070-17-tactil.jpg",
+        "precio": 4056
+    },
+    {
+        "nombre": "Lenovo Legion Pro 7 16IRX8 Intel Core i9-13900HX/32GB/1TB SSD/RTX 4070/16\"",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1067/10676248/1179-lenovo-legion-pro-7-16iax7-intel-core-i9-13900hx-32gb-1tb-ssd-rtx-4070-16-508ef15a-2244-40e3-9e0c-2650d0f26505.jpg",
+        "precio": 4050
+    },
+    {
+        "nombre": "HP OMEN 17-ck0013ns Intel Core i7-11800H/32GB/1TB SSD/RTX 3060/17.3\"",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1032/10321794/1272-hp-omen-17-ck0013ns-intel-core-i7-11800h-32gb-1tb-ssd-rtx-3060-173.jpg",
+        "precio": 3994
+    },
+    {
+        "nombre": "Lenovo Legion Pro 7 16IRX8H Intel Core i9-13900HX/32GB/1TB SSD/RTX 4080/16\"",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1067/10676244/1593-lenovo-legion-pro-7-16irx8h-intel-core-i9-13900hx-32gb-1tb-ssd-rtx-4080-16-3d230d9a-6251-4786-a793-75236d36ee4d.jpg",
+        "precio": 3917
+    },
+    {
+        "nombre": "Lenovo Yoga Pro 9 14IRP8-637 Intel Core i9-13905H/64GB/1TB SSD/RTX 4070/14.5'' Tátil (PT)",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1074/10748175/1644-lenovo-yoga-pro-9-14irp8-637-intel-core-i9-13905h-64gb-1tb-ssd-rtx-4070-145-tatil-pt.jpg",
+        "precio": 3835
+    },
+    {
+        "nombre": "MSI Creator Z16 HX Studio B13VGTO-205ES Intel Core i9-13980HX/64GB/1TB SSD/RTX 4070/16\" Táctil",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/1075/10752660/1318-msi-creator-z16-hx-studio-b13vgto-205es-intel-core-i9-13980hx-64gb-1tb-ssd-rtx-4070-16-tactil.jpg",
+        "precio": 3825
+    },
+    {
+        "nombre": "Asus ROG Strix SCAR 17 G733QS-K4016T AMD Ryzen 9 5900HX/32GB/1TB SSD/RTX 3080/17.3\"",
+        "imagen": "https://thumb.pccomponentes.com/w-300-300/articles/83/836554/1188-asus-rog-strix-scar-17-g733qs-k4016t-amd-ryzen-9-5900hx-32gb-1tb-ssd-rtx-3080-173.jpg",
+        "precio": 3759
+    }
+]

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "csv": "^6.3.6",
+    "express": "^4.18.2",
+    "json": "^11.0.0",
+    "node-fetch": "^3.3.2",
+    "socket.io": "^4.7.2"
+  }
+}
